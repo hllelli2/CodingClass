@@ -1,11 +1,11 @@
 [project]
-name = "placeholder_project_name"
+name = "Sleep_Deprivation_Analysis"
 version = "0.0.1"
-description = "Your project description here"
+description = "Looking the effects of Sleep Deprivation on Cognitive Performance"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "Ridwan", email = "ridwanade@hotmail.com" }]
 dependencies = [
   # dependencies go here
 ]
