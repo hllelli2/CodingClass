@@ -8,6 +8,11 @@ license = { file = "LICENSE" }
 authors = [{ name = "Ridwan", email = "ridwanade@hotmail.com" }]
 dependencies = [
   # dependencies go here
+  "scipy>=1.15.3",
+  "pandas",
+  "matplotlib",
+  "seaborn",
+
 ]
 
 [dependency-groups]
